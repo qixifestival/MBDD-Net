@@ -9,6 +9,7 @@ repository-code: "https://github.com/qixifestival/MBDD-Net"
 authors:
   - family-names: "Qin"
     given-names: "Xiaojie"
+    orcid: "https://orcid.org/0009-0009-3247-8918"
   - family-names: "Yu"
     given-names: "Anping"
   - family-names: "Yao"
@@ -18,12 +19,14 @@ authors:
   - family-names: "Meng"
     given-names: "Qingxiang"
     email: "mqx@whu.edu.cn"
+    orcid: "https://orcid.org/0000-0002-2959-5365"
 preferred-citation:
   type: article
   title: "MBDD-Net: a localisation-guided multimodal network for severe post-earthquake building damage segmentation using optical and SAR imagery"
   authors:
     - family-names: "Qin"
       given-names: "Xiaojie"
+      orcid: "https://orcid.org/0009-0009-3247-8918"
     - family-names: "Yu"
       given-names: "Anping"
     - family-names: "Yao"
@@ -32,6 +35,7 @@ preferred-citation:
       given-names: "Yuanjun"
     - family-names: "Meng"
       given-names: "Qingxiang"
+      orcid: "https://orcid.org/0000-0002-2959-5365"
   journal: "International Journal of Remote Sensing"
   year: 2026
   # Add volume, issue, pages, and DOI after publication.
