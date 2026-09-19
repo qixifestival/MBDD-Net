@@ -42,5 +42,4 @@ The manifests were extracted from the archived experiment dataset. They do not c
 
 ## Data citation
 
-Before making the repository public, replace this section with the verified formal BRIGHT dataset citation used in the manuscript reference list and include its persistent identifier. Do not apply an open licence to third-party imagery.
-
+The public BRIGHT dataset record used by the manuscript is available at <https://doi.org/10.5281/zenodo.20072020>. Cite the corresponding BRIGHT dataset article and repository record as listed in the manuscript. Do not apply an open licence to third-party imagery.

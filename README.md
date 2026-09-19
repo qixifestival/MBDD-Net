@@ -96,13 +96,13 @@ The tests cover FAM window partition/reversal, batch independence, zero-flow ide
 
 - The repository contains code and split identifiers, not provider-restricted imagery.
 - The 12 Nano Banana 2 cloud assets are required for the paper's cloud-mixing protocol but are not included until redistribution permission is confirmed.
-- Trained model weights are not included in this draft release folder.
+- Trained model weights are not included in the public repository and remain available from the corresponding author upon reasonable request.
 - The original environment was not exported with `pip freeze`; do not describe the current requirements file as an exact lock file.
 - The random seed controls Python, NumPy, PyTorch, CUDA, workers, and cuDNN deterministic settings, but exact bitwise identity across GPU/PyTorch versions is not guaranteed.
 
 ## Citation
 
-Citation metadata will be finalised after the manuscript receives a public bibliographic identifier. See [`CITATION.cff.template`](CITATION.cff.template).
+Software citation metadata are provided in [`CITATION.cff`](CITATION.cff). The article DOI, volume, issue, and pages will be added after publication.
 
 ## Licence
 

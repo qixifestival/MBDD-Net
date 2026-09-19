@@ -3,6 +3,9 @@ message: "If you use this software, please cite the associated MBDD-Net article.
 title: "MBDD-Net"
 type: software
 version: "0.1.0"
+date-released: "2026-09-19"
+license: MIT
+repository-code: "https://github.com/qixifestival/MBDD-Net"
 authors:
   - family-names: "Qin"
     given-names: "Xiaojie"
@@ -30,5 +33,5 @@ preferred-citation:
     - family-names: "Meng"
       given-names: "Qingxiang"
   journal: "International Journal of Remote Sensing"
-  # Add year, volume, issue, pages, and DOI after publication.
-
+  year: 2026
+  # Add volume, issue, pages, and DOI after publication.
