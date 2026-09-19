@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated MBDD-Net article."
+title: "MBDD-Net"
+type: software
+version: "0.1.0"
+authors:
+  - family-names: "Qin"
+    given-names: "Xiaojie"
+  - family-names: "Yu"
+    given-names: "Anping"
+  - family-names: "Yao"
+    given-names: "Kaixuan"
+  - family-names: "Feng"
+    given-names: "Yuanjun"
+  - family-names: "Meng"
+    given-names: "Qingxiang"
+    email: "mqx@whu.edu.cn"
+preferred-citation:
+  type: article
+  title: "MBDD-Net: a localisation-guided multimodal network for severe post-earthquake building damage segmentation using optical and SAR imagery"
+  authors:
+    - family-names: "Qin"
+      given-names: "Xiaojie"
+    - family-names: "Yu"
+      given-names: "Anping"
+    - family-names: "Yao"
+      given-names: "Kaixuan"
+    - family-names: "Feng"
+      given-names: "Yuanjun"
+    - family-names: "Meng"
+      given-names: "Qingxiang"
+  journal: "International Journal of Remote Sensing"
+  # Add year, volume, issue, pages, and DOI after publication.
+
